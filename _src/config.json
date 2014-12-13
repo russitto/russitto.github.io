@@ -1,9 +1,9 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
-    "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
+    "name": "Matias Russitto",
+    "owner": "matias at russitto dot com",
+    "description": "devel soul rebel"
   },
   "plugins": [
     "./plugins/paginator.coffee"
