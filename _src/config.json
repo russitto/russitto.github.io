@@ -6,7 +6,8 @@
     "description": "devel soul rebel"
   },
   "plugins": [
-    "./plugins/paginator.coffee"
+    "./plugins/paginator.coffee",
+    "wintersmith-sass"
   ],
   "require": {
     "moment": "moment",
