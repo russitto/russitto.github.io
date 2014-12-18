@@ -4,10 +4,27 @@
     <title>Matias Russitto</title>
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>http://localhost:8080</link>
-    <description>devel soul rebel</description>
-    <pubDate>Mon, 29 Apr 2013 21:00:00 -0300</pubDate>
+    <description>devel soul rebel wannabe</description>
+    <pubDate>Fri, 14 Jun 2013 21:00:00 -0300</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
+    <item>
+      <title>Soy Padre</title>
+      <link>http://localhost:8080/articles/2013-06-15-soy-padre/</link>
+      <pubDate>Fri, 14 Jun 2013 21:00:00 -0300</pubDate>
+      <guid isPermaLink="true">http://localhost:8080/articles/2013-06-15-soy-padre/</guid>
+      <author></author>
+      <description>&lt;p&gt;Desde el 31 de mayo soy padre de Ian Russitto Businskas, un gordo que nació con 2,975 kilos.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;more&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Pero en realidad soy padre desde que Andrea Vanina Businskas me dió la noticia de que esperabamos un hijo.&lt;/p&gt;
+&lt;p&gt;Es un momento único y hermoso, él cambia nuestras vidas día a día. Y él mismo cambia la suya cada día, crece a cada ratito, siempre tiene algo nuevo para darnos y mostrarnos. Es cambio tras cambio, evoluciona continuamente.&lt;/p&gt;
+&lt;p&gt;Estamos formando una familia, no olvidemos de la mascota Uma, que está celosa y protectora al mismo tiempo :)&lt;/p&gt;
+&lt;p&gt;Ian es pura vida.&lt;/p&gt;
+&lt;p&gt;Fotos en:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://vida.russitto.com/&quot;&gt;http://vida.russitto.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PD: Feliz día a todos los padres :D&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>README</title>
       <link>http://localhost:8080/articles/hello-world/</link>

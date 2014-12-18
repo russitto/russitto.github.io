@@ -3,7 +3,7 @@
     "url": "http://localhost:8080",
     "name": "Matias Russitto",
     "owner": "matias at russitto dot com",
-    "description": "devel soul rebel"
+    "description": "devel soul rebel wannabe"
   },
   "plugins": [
     "./plugins/paginator.coffee",

@@ -6,7 +6,7 @@ block content
     article.article.intro
       header
         p.date
-          span= moment.utc(article.date).format('DD. MMMM YYYY')
+          span= moment.utc(article.date).format('DD-MM-YYYY')
         h2
           a(href=article.url)= article.title
       section.content
@@ -14,13 +14,13 @@ block content
           | !{ typogr(article.intro).typogrify() }
         if article.hasMore
           p.more
-            a(href=article.url) more
+            a(href=article.url) más
 
 block prepend footer
   div.nav
     if prevPage
-      a(href=prevPage.url) « Newer
+      a(href=prevPage.url) « Nuevos
     else
-      a(href='/archive/') « Archives
+      a(href='/archive/') « Archivo
     if nextPage
-      a(href=nextPage.url) Next page »
+      a(href=nextPage.url) Siguiente »
