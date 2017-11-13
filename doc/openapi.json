@@ -1,1 +1,45 @@
-{"info":{"title":"Play","description":"","version":"1.0.0"},"openapi":"3.0.0"}
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Play",
+    "description": "play movies",
+    "contact": {
+      "name": "Matias Russitto",
+      "url": "https://russitto.com/",
+      "email": "matias@russitto.com"
+    },
+    "license": {
+      "name": "MIT License",
+      "url": "https://opensource.org/licenses/MIT"
+    },
+    "version": "0.0.1"
+  },
+  "paths": {
+    "/ping": {
+      "get": {
+        "summary": "pong",
+        "description": "pong"
+      }
+    },
+    "/ip": {
+      "get": {
+        "summary": "pong"
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "name": "Bearer",
+        "in": "header"
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "0.0.1",
+      "description": ""
+    }
+  ]
+}
