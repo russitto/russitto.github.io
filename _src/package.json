@@ -2,7 +2,7 @@
   "dependencies": {
     "moment": "^2.22.0",
     "typogr": "0.5.x",
-    "underscore": "1.4.x"
+    "underscore": "^1.13.6"
   },
   "repository": "none"
 }
