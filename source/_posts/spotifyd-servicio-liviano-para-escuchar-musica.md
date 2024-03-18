@@ -1,7 +1,7 @@
 ---
 title: spotifyd, servicio liviano para escuchar música
 date: 2024-03-07 09:28:02
-tags: spotify musica
+tags: [ spotify, musica ]
 ---
 ## spotifyd un servicio
 

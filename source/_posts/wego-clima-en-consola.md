@@ -1,13 +1,7 @@
 ---
 title: wego clima en consola
 date: 2024-02-01 13:16:50
-tags: 
-- wego
-- console
-- terminal
-- tty
-- linux
-- weather
+tags: [ wego , console , terminal , tty , linux , weather ]
 ---
 
 ## wego
